@@ -1,0 +1,14 @@
+Enter a list of names:
+ron
+ronny
+mommy
+Name picked is -> ronny
+Name picked is -> ronny
+Name picked is -> ron
+Name picked is -> ronny
+Name picked is -> mommy
+Name picked is -> ronny
+Name picked is -> ronny
+Name picked is -> ron
+Name picked is -> ron
+Name picked is -> ronny

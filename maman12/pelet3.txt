@@ -1,0 +1,14 @@
+Enter a list of names:
+drake
+gina
+lucifer
+Name picked is -> gina
+Name picked is -> gina
+Name picked is -> drake
+Name picked is -> gina
+Name picked is -> lucifer
+Name picked is -> gina
+Name picked is -> gina
+Name picked is -> drake
+Name picked is -> drake
+Name picked is -> gina

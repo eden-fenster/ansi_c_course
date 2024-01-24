@@ -1,0 +1,6 @@
+Enter a list of names:
+sally     
+danny
+Danny
+Duplicate found -> Danny
+The name Danny already exists - exiting

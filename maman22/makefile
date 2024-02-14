@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -ansi -Wall -pedantic 
-objects = program1 program2
+objects = mymat mainmat
 all: $(objects)
 
 $(objects): %: %.c
